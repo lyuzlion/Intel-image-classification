@@ -19,7 +19,7 @@
 
 
 ## ⚙️ 环境要求
-- Python 3.8
+- Python 3.11
 - PyTorch 2.6.0
 - torchvision 0.21.0
 - CUDA 12.6
